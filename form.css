@@ -1,0 +1,17 @@
+.form-button-bottom{
+display: flex;
+justify-content: space-around;
+}
+
+/* .button-class-bottom-1{
+    background-color: #ddd;
+    padding: 10px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+        .button-class-bottom-12{
+            display: block;
+            width: 100%;
+        }

@@ -1,0 +1,42 @@
+.card-body-upper{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card-body {
+
+background-color: white;
+    border-radius: 15px;
+
+
+    padding: 400px, 91px, 40px, 91px !important;
+
+}
+
+.logo-class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subheading {
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 36px;
+    text-align: center !important;
+}
+
+.subHeading2 {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 18.4px;
+    text-align: center !important;
+    vertical-align: top;
+}
+
+.button-class {
+    display: flex;
+
+}

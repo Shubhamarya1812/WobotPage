@@ -1,0 +1,25 @@
+.bg {
+  background-image: url("../src/assests/Background.svg");
+
+  height: 100vh;
+  background-color: #F9F9F9;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.d-inline-block-align-top {
+  margin-left: 60px;
+  margin-top: 60px;
+}
+
+.bottom-layer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: Roboto;
+  font-size: normal;
+  font-size: 14px;
+  line-height: 18.4px;
+
+  vertical-align: top;
+}
